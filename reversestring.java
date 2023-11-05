@@ -1,6 +1,6 @@
 
 import java.util.*;
-class GFG {
+class reversestring {
 
 
 	static void reverse(char str[], int start, int end)
